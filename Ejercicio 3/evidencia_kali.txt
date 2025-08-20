@@ -1,0 +1,189 @@
+Exploración de Kali Linux-Usuario:iza_0725$
+Sat Aug  9 02:26:36 PM CST 2025
+LAPTOP-9KRT9QS5
+Linux LAPTOP-9KRT9QS5 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 GNU/Linux
+iza_0725$
+/home/iza_0725$
+total 4
+-rw-r--r-- 1 iza_0725$ iza_0725$ 243 Aug  9 14:28 evidencia_kali.txt
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.4G     0  1.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.4G  4.0K  1.4G   1% /mnt/wsl
+drivers         1.9T  137G  1.7T   8% /usr/lib/wsl/drivers
+/dev/sdd       1007G  797M  955G   1% /
+none            1.4G   72K  1.4G   1% /mnt/wslg
+none            1.4G     0  1.4G   0% /usr/lib/wsl/lib
+rootfs          1.4G  2.7M  1.4G   1% /init
+none            1.4G     0  1.4G   0% /dev
+none            1.4G  476K  1.4G   1% /run
+none            1.4G     0  1.4G   0% /run/lock
+none            1.4G     0  1.4G   0% /run/shm
+none            1.4G   76K  1.4G   1% /mnt/wslg/versions.txt
+none            1.4G   76K  1.4G   1% /mnt/wslg/doc
+C:\             1.9T  137G  1.7T   8% /mnt/c
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/console-getty.service
+tmpfs           1.4G  4.0K  1.4G   1% /run/user/1000
+               total        used        free      shared  buff/cache   available
+Mem:            2846         352        2473           3          91        2493
+Swap:           1024           0        1024
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host proto kernel_lo 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:ba:60:60 brd ff:ff:ff:ff:ff:ff
+    inet 172.21.170.46/20 brd 172.21.175.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:feba:6060/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever
+default via 172.21.160.1 dev eth0 proto kernel 
+172.21.160.0/20 dev eth0 proto kernel scope link src 172.21.170.46 
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+www.microsoft.com	canonical name = www.microsoft.com-c-3.edgekey.net.
+www.microsoft.com-c-3.edgekey.net	canonical name = www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
+www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net	canonical name = e13678.dscb.akamaiedge.net.
+Name:	e13678.dscb.akamaiedge.net
+Address: 23.36.193.228
+Name:	e13678.dscb.akamaiedge.net
+Address: 2600:141c:5:1a0::356e
+Name:	e13678.dscb.akamaiedge.net
+Address: 2600:141c:5:1aa::356e
+
+Exploración de Kali Linux - Usuario:iza_0725$
+Linux LAPTOP-1Z4 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 GNU/Linux
+total 4
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:04 date
+-rw-r--r-- 1 iza_0725$ iza_0725$ 3212 Aug  9 15:05 evidencia_kali.txt
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:05 hostname
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:06 ls
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:06 pwd
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:05 uname
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:05 whoami
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.4G     0  1.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.4G  4.0K  1.4G   1% /mnt/wsl
+drivers         1.9T  138G  1.7T   8% /usr/lib/wsl/drivers
+/dev/sdd       1007G  821M  955G   1% /
+none            1.4G   72K  1.4G   1% /mnt/wslg
+none            1.4G     0  1.4G   0% /usr/lib/wsl/lib
+rootfs          1.4G  2.7M  1.4G   1% /init
+none            1.4G     0  1.4G   0% /dev
+none            1.4G  476K  1.4G   1% /run
+none            1.4G     0  1.4G   0% /run/lock
+none            1.4G     0  1.4G   0% /run/shm
+none            1.4G   76K  1.4G   1% /mnt/wslg/versions.txt
+none            1.4G   76K  1.4G   1% /mnt/wslg/doc
+C:\             1.9T  138G  1.7T   8% /mnt/c
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+tmpfs           1.4G  4.0K  1.4G   1% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/console-getty.service
+               total        used        free      shared  buff/cache   available
+Mem:            2846         349        2477           3          90        2496
+Swap:           1024           0        1024
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host proto kernel_lo 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:4c:cf:20 brd ff:ff:ff:ff:ff:ff
+    inet 172.21.170.46/20 brd 172.21.175.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:fe4c:cf20/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever
+default via 172.21.160.1 dev eth0 proto kernel 
+172.21.160.0/20 dev eth0 proto kernel scope link src 172.21.170.46 
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+www.microsoft.com	canonical name = www.microsoft.com-c-3.edgekey.net.
+www.microsoft.com-c-3.edgekey.net	canonical name = www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
+www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net	canonical name = e13678.dscb.akamaiedge.net.
+Name:	e13678.dscb.akamaiedge.net
+Address: 184.50.150.145
+Name:	e13678.dscb.akamaiedge.net
+Address: 2600:141c:5:1aa::356e
+Name:	e13678.dscb.akamaiedge.net
+Address: 2600:141c:5:1a0::356e
+
+Exploración de Kali Linux-Usuario: iza_0725$
+Sun Aug 10 12:36:26 PM CST 2025
+LAPTOP-1Z4
+Linux LAPTOP-1Z4 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 GNU/Linux
+iza_0725$
+/home/iza_0725$
+total 8
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:04 date
+-rw-r--r-- 1 iza_0725$ iza_0725$ 6591 Aug 10 12:37 evidencia_kali.txt
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:05 hostname
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:06 ip
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:06 ls
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:06 pwd
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:05 uname
+-rw-r--r-- 1 iza_0725$ iza_0725$    0 Aug  9 15:05 whoami
+Filesystem      Size  Used Avail Use% Mounted on
+none            1.4G     0  1.4G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+none            1.4G  4.0K  1.4G   1% /mnt/wsl
+drivers         1.9T  140G  1.7T   8% /usr/lib/wsl/drivers
+/dev/sdd       1007G  830M  955G   1% /
+none            1.4G   72K  1.4G   1% /mnt/wslg
+none            1.4G     0  1.4G   0% /usr/lib/wsl/lib
+rootfs          1.4G  2.7M  1.4G   1% /init
+none            1.4G     0  1.4G   0% /dev
+none            1.4G  456K  1.4G   1% /run
+none            1.4G     0  1.4G   0% /run/lock
+none            1.4G     0  1.4G   0% /run/shm
+none            1.4G   76K  1.4G   1% /mnt/wslg/versions.txt
+none            1.4G   76K  1.4G   1% /mnt/wslg/doc
+C:\             1.9T  140G  1.7T   8% /mnt/c
+tmpfs           1.4G     0  1.4G   0% /run/user/1000
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/console-getty.service
+tmpfs           1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+               total        used        free      shared  buff/cache   available
+Mem:            2846         353        2492           3          69        2492
+Swap:           1024           0        1024
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet 10.255.255.254/32 brd 10.255.255.254 scope global lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host proto kernel_lo 
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc mq state UP group default qlen 1000
+    link/ether 00:15:5d:3d:d9:2d brd ff:ff:ff:ff:ff:ff
+    inet 172.21.170.46/20 brd 172.21.175.255 scope global eth0
+       valid_lft forever preferred_lft forever
+    inet6 fe80::215:5dff:fe3d:d92d/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever
+default via 172.21.160.1 dev eth0 proto kernel 
+172.21.160.0/20 dev eth0 proto kernel scope link src 172.21.170.46 
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+www.microsoft.com	canonical name = www.microsoft.com-c-3.edgekey.net.
+www.microsoft.com-c-3.edgekey.net	canonical name = www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net.
+www.microsoft.com-c-3.edgekey.net.globalredir.akadns.net	canonical name = e13678.dscb.akamaiedge.net.
+Name:	e13678.dscb.akamaiedge.net
+Address: 184.50.150.145
+Name:	e13678.dscb.akamaiedge.net
+Address: 2600:141c:5:1aa::356e
+Name:	e13678.dscb.akamaiedge.net
+Address: 2600:141c:5:1a0::356e
+
